@@ -21,13 +21,13 @@
                         <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Tools</a>
+                        <a class="nav-link" href="tools.php">Tools</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Operating System</a>
+                        <a class="nav-link" href="operating_system.php">Operating System</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Firmware</a>
+                        <a class="nav-link" href="firmware.php">Firmware</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="contact.php">Contact</a>
