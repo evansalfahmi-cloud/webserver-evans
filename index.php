@@ -3,23 +3,11 @@
 <div class="container mt-5">
         <div class="row">
             <!-- Konten Utama -->
-            <div class="col-lg-8">
-                <h2>Selamat datang di website saya :)</h2>
-                <p class="lead">ini adalah website yang berisi tentang beberapa artikel, tutorial yang diperlukan dalam perbaikan smartphone..</p>
-                <p>Tersedia beberapa tools, software keperluan service handphone, firmware, dump, dan file lainnya</p>
-                <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+            <div class="jumbotron text-center">
+            <h1>أهلا و سهلا</h1>
+            <p>selamat datang di website ini</p> 
             </div>
-            <!-- Sidebar -->
-            <div class="col-lg-4">
-                <h3>Sidebar</h3>
-                <ul class="list-group">
-                    <li class="list-group-item">Item 1</li>
-                    <li class="list-group-item">Item 2</li>
-                    <li class="list-group-item">Item 3</li>
-                    <li class="list-group-item">Item 4</li>
-                </ul>
-            </div>
-        </div>
+            
         <!-- Row tambahan untuk konten di bawahnya -->
         <div class="row mt-4">
             <div class="col-md-4">
